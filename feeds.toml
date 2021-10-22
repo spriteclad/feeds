@@ -16,7 +16,7 @@ linkSelector = "h2 a"
 title = "eggramen updates"
 url = "https://eggramen.neocities.org/log.html"
 entrySelector = ".box-inner > ul"
-titleSelector = "h2"
+titleSelector = ".box-inner > b"
 linkSelector = "*"
 
 [default]
