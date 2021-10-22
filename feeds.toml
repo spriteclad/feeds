@@ -21,3 +21,11 @@ linkSelector = "*"
 
 [default]
 timeout = 120
+
+[abs]
+title = "Albino Blacksheep"
+url = "https://www.albinoblacksheep.com/"
+entrySelector = "article > .wrapper > .inner"
+titleSelector = "header > h2"
+dateSelector = "header > h3.blog > time"
+linkSelector = "*"
