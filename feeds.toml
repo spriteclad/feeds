@@ -12,5 +12,12 @@ entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
 
+[eggramen]
+title = "eggramen updates"
+url = "https://eggramen.neocities.org/log.html"
+entrySelector = ".box-inner > ul"
+titleSelector = "h2"
+linkSelector = "*"
+
 [default]
 timeout = 120
