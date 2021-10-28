@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.albinoblacksheep.com/</id>
     <title>Albino Blacksheep</title>
-    <updated>2021-10-27T17:45:52.380Z</updated>
+    <updated>2021-10-28T05:42:15.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.albinoblacksheep.com/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Happy Halloween!]]></title>
+        <id>https://www.albinoblacksheep.com/</id>
+        <link href="https://www.albinoblacksheep.com/"/>
+        <updated>2021-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="section medium">
+<header><h2>Happy Halloween!</h2>
+<h3 class="blog"><time datetime="2021-10-27"><span class="mm">October</span> <span class="dd">27</span> <span class="yyyy">2021</span></time></h3></header>
+
+<ul class="files">
+<li><a href="/video/nameless7-6"><img src="/video/shot/nameless7-6.jpg" alt="" width="106" height="59">Nameless 7 - Part 6</a></li>
+</ul>
+
+<p>If you want to catch up before watching Part 6, here's <a href="/flash/namesless7-1">Namless 7 - Part 1</a>, <a href="/flash/namesless7-2">Part 2</a>, <a href="/flash/namesless7-3">Part 3</a>, <a href="/flash/namesless7-4">Part 4</a> and <a href="/flash/namesless7-5">Part 5</a>. Check out the <a href="/flash/nameless6/">Nameless 6</a> series page.</p>
+
+<ul class="files">
+<li><a href="/video/pepe-silvia"><img src="/video/shot/pepe-silvia.jpg" alt="" width="106" height="59">Pepe Silvia Animated</a></li>
+</ul>
+<p>Speaking of theories:</p>
+
+<ul class="files">
+<li><a href="/video/dead-internet-theory-2"><img src="/video/shot/dead-internet-theory-2.jpg" alt="" width="106" height="59">Dead Internet Theory 2</a></li>
+</ul>
+
+<p>Happy Halloween!</p>
+
+<ul class="files">
+<li><a href="/video/enter-sandman-halloween"><img src="/video/shot/enter-sandman-halloween.jpg" alt="" width="106" height="59">Enter Sandman Halloween Light Show</a></li>
+
+<li><a href="/video/most-scariest-halloween"><img src="/video/shot/most-scariest-halloween.jpg" alt="" width="106" height="59">Most Scariest Halloween</a></li>
+</ul>
+
+</div>
+<div class="clear"></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High Frequency]]></title>
         <id>https://www.albinoblacksheep.com/</id>
