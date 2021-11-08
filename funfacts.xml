@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2021-11-08T05:42:27.673Z</updated>
+    <updated>2021-11-08T17:51:35.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/American_Computer_and_Peripheral" title="American Computer and Peripheral">American Computer and Peripheral</a></b> was the first company to offer a plug-in board for <a href="/wiki/Intel" title="Intel">Intel</a>'s <a href="/wiki/I386" title="I386">386</a> processor?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advocate General]]></title>
-        <id>https://en.wikipedia.org/wiki/Advocate_General_(European_Union)</id>
-        <link href="https://en.wikipedia.org/wiki/Advocate_General_(European_Union)"/>
-        <updated>2021-11-08T05:42:16.522Z</updated>
-        <content type="html"><![CDATA[... that thanks to the <b><a href="/wiki/Advocate_General_(European_Union)" title="Advocate General (European Union)">Advocate General</a></b><span class="nowrap">'s</span> opinion, one is likely to know the outcome of a court case before the <a href="/wiki/European_Court_of_Justice" title="European Court of Justice">European Court of Justice</a> before it even starts drafting the ruling?]]></content>
+        <title type="html"><![CDATA[advocate general]]></title>
+        <id>https://en.wikipedia.org/wiki/Advocate_general_(European_Union)</id>
+        <link href="https://en.wikipedia.org/wiki/Advocate_general_(European_Union)"/>
+        <updated>2021-11-08T17:51:24.675Z</updated>
+        <content type="html"><![CDATA[... that thanks to the <b><a href="/wiki/Advocate_general_(European_Union)" title="Advocate general (European Union)">advocate general</a></b><span class="nowrap">'s</span> opinion, one is likely to know the outcome of a court case before the <a href="/wiki/European_Court_of_Justice" title="European Court of Justice">European Court of Justice</a> before it even starts drafting the ruling?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Starship]]></title>
