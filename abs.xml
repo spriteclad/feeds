@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.albinoblacksheep.com/</id>
     <title>Albino Blacksheep</title>
-    <updated>2021-12-05T17:46:19.211Z</updated>
+    <updated>2021-12-06T17:39:29.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.albinoblacksheep.com/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[But it's got electrolites]]></title>
+        <id>https://www.albinoblacksheep.com/</id>
+        <link href="https://www.albinoblacksheep.com/"/>
+        <updated>2021-12-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="section medium">
+<header><h2>But it's got electrolites</h2>
+<h3 class="blog"><time datetime="2021-12-05"><span class="mm">December</span> <span class="dd">5</span> <span class="yyyy">2021</span></time></h3></header>
+
+<p>Oh, it was going to be a real <a href="/lazyboy">LazyBoy</a> series all along. Episode 2 premieres now!</p>
+
+<ul class="files">
+<li><a href="/video/james-weird-little-world-2"><img src="/video/shot/james-weird-little-world-2.jpg" alt="" width="106" height="59">James' Weird Little World - Episode 2</a></li>
+<li><a href="/video/james-weird-little-world"><img src="/video/shot/james-weird-little-world.jpg" alt="" width="106" height="59">James' Weird Little World - Episode 1</a></li>
+</ul>
+
+</div>
+<div class="clear"></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy Halloween!]]></title>
         <id>https://www.albinoblacksheep.com/</id>
